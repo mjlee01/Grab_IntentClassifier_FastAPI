@@ -1,4 +1,4 @@
-# Driver Intent Prediction API 🚗🧠
+# Driver Intent Prediction API 🚗
 
 This is a FastAPI backend that predicts the intent of a driver (e.g. accepting or rejecting an order) based on a given input sentence. It supports multiple languages (English, Malay, Chinese).
 
