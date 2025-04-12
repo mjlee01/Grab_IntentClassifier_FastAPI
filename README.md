@@ -50,7 +50,7 @@ The API will be available at `http://127.0.0.1:8000/`.
 You can test the API using tools like `curl` or Postman. Here's an example using `curl`:
 
 ```bash
-curl -X POST "http://127.0.0.1:8000/predict" -H "Content-Type: application/json" -d '{"sentence": "I accept the order"}'
+curl -X POST "http://127.0.0.1:8000/predict" -H "Content-Type: application/json" -d '{"text": "I accept the order"}'
 ```
 Expect a response like:
 ```json
