@@ -4,3 +4,4 @@ joblib
 sentence-transformers
 scikit-learn
 pandas
+huggingface_hub
