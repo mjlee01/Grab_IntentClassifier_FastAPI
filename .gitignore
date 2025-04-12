@@ -1,0 +1,26 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# FastAPI specific
+*.db
+
+# Log files
+*.log
+
+# Output directories
+dist/
+build/
+*.egg-info/
+
+# VS Code settings
+.vscode/
